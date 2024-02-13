@@ -10,4 +10,7 @@
 
 
 
-![GIF]()
+<p align="center">
+  <img src="assets/swaglabs_cypress.gif" alt="GIF">
+</p>
+f)
