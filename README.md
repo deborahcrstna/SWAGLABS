@@ -4,7 +4,7 @@
 
 ## SOBRE
 
-### Este repositório tem o propósito de apresentar umm teste realizado em um site de commpras da Saudemo com foco em automatizar testes de E2E focando a funcionalidade dos cenários propostos. 
+### Este repositório tem o propósito de apresentar um teste realizado em um site de commpras da Saudemo com foco em automatizar testes de E2E focando a funcionalidade dos cenários propostos. 
 
 ## Ferramentas utilizadas: Cypress/VsCode Studio
 
